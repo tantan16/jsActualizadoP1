@@ -1,4 +1,5 @@
 # jsActualizadoP1- shopping cart
+https://tantan16.github.io/jsActualizadoP1/
 This repository contains examples and exercises applying control structures, events, and iterators in JavaScript. It explores fundamental concepts such as:
 
 ✅ Control structures: conditionals (if, switch) and loops (for, while).
